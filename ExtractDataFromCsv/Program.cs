@@ -1,4 +1,5 @@
 ﻿
+using System.Diagnostics;
 using System.IO;
 using System.Net;
 
@@ -13,7 +14,11 @@ try
 
         while ((line = reader.ReadLine()) != null)
         {
-            Console.WriteLine(line);
+            string[] rowData = line.Split(' ');
+            Console.WriteLine(rowData[0].Trim());
+            Console.WriteLine(rowData[1].Trim());   // Kan ikke splitte de to kolonner!!!
+
+            //Console.WriteLine(line);
         }
     }
 

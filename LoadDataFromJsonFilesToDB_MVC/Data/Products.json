@@ -1,0 +1,53 @@
+{
+  "Products": [
+    {
+      "Id": "001",
+      "Group": "group-1",
+      "Name": "Product 1",
+      "Price": 199.00,
+      "Description": "This is product 1"
+    },
+    {
+      "Id": "002",
+      "Group": "group-1",
+      "Name": "Product 2",
+      "Price": 149.00,
+      "Description": "This is product 2"
+    },
+    {
+      "Id": "003",
+      "Group": "group-1",
+      "Name": "Product 3",
+      "Price": 199.00,
+      "Description": "This is product 3"
+    },
+    {
+      "Id": "004",
+      "Group": "group-2",
+      "Name": "Product 4",
+      "Price": 249.00,
+      "Description": "This is product 4"
+    },
+    {
+      "Id": "005",
+      "Group": "group-2",
+      "Name": "Product 5",
+      "Price": 399.00,
+      "Description": "This is product 5"
+    },
+    {
+      "Id": "006",
+      "Group": "group-2",
+      "Name": "Product 6",
+      "Price": 79.00,
+      "Description": "This is product 6"
+    },
+    {
+      "Id": "007",
+      "Group": "group-2",
+      "Name": "Product 7",
+      "Price": 119.00,
+      "Description": "This is product 7"
+    }
+  ]
+}

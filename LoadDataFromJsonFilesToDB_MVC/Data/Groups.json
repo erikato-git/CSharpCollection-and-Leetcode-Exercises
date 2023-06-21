@@ -1,0 +1,12 @@
+{
+  "Groups": [
+    {
+      "Id": "group-1",
+      "Name": "Group 1"
+    },
+    {
+      "Id": "group-2",
+      "Name": "Group 2"
+    }
+  ]
+}

@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractFromDifferentJsonFil
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractDataFromCsv", "ExtractDataFromCsv\ExtractDataFromCsv.csproj", "{16408CA2-BCC0-4F25-8060-D8EEB2D1C2DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadDataFromJsonFilesToDB_MVC", "LoadDataFromJsonFilesToDB_MVC\LoadDataFromJsonFilesToDB_MVC.csproj", "{0FB64545-D01A-4B51-8C04-036D02BD5C0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{16408CA2-BCC0-4F25-8060-D8EEB2D1C2DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16408CA2-BCC0-4F25-8060-D8EEB2D1C2DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16408CA2-BCC0-4F25-8060-D8EEB2D1C2DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FB64545-D01A-4B51-8C04-036D02BD5C0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FB64545-D01A-4B51-8C04-036D02BD5C0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FB64545-D01A-4B51-8C04-036D02BD5C0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FB64545-D01A-4B51-8C04-036D02BD5C0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
