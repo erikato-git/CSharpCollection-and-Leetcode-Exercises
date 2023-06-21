@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Array\\Math\\Math.csproj": {}
+    "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\Math\\Math.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Array\\Math\\Math.csproj": {
+    "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\Math\\Math.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Array\\Math\\Math.csproj",
+        "projectUniqueName": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\Math\\Math.csproj",
         "projectName": "Math",
-        "projectPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Array\\Math\\Math.csproj",
+        "projectPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\Math\\Math.csproj",
         "packagesPath": "C:\\Users\\erikk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Array\\Math\\obj\\",
+        "outputPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\Math\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erikk\\AppData\\Roaming\\NuGet\\NuGet.Config",

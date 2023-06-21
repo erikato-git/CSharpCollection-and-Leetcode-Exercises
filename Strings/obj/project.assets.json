@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Array\\Strings\\StringsExercises.csproj",
+      "projectUniqueName": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\Strings\\StringsExercises.csproj",
       "projectName": "StringsExercises",
-      "projectPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Array\\Strings\\StringsExercises.csproj",
+      "projectPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\Strings\\StringsExercises.csproj",
       "packagesPath": "C:\\Users\\erikk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Array\\Strings\\obj\\",
+      "outputPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\Strings\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\erikk\\AppData\\Roaming\\NuGet\\NuGet.Config",

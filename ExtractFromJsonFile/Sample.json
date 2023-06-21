@@ -1,0 +1,29 @@
+{
+  "Student": [
+    {
+      "Name": "John0",
+      "Surname": "Johnson0",
+      "Age": 30,
+      "Jobs": [
+        "Software Developer",
+        "GameDev"
+      ]
+    },
+    {
+      "Name": "John1",
+      "Surname": "Johnson1",
+      "Age": 18,
+      "Jobs": [ "Student" ]
+    },
+    {
+      "Name": "John2",
+      "Surname": "Johnson2",
+      "Age": 42,
+      "Jobs": [
+        "Seller",
+        "Builder",
+        "Gamer"
+      ]
+    }
+  ]
+}

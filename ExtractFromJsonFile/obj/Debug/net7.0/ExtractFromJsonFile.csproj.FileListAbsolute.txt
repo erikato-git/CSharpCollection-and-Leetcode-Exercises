@@ -1,0 +1,17 @@
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\ExtractFromJsonFile\bin\Debug\net7.0\ExtractFromJsonFile.exe
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\ExtractFromJsonFile\bin\Debug\net7.0\ExtractFromJsonFile.deps.json
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\ExtractFromJsonFile\bin\Debug\net7.0\ExtractFromJsonFile.runtimeconfig.json
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\ExtractFromJsonFile\bin\Debug\net7.0\ExtractFromJsonFile.dll
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\ExtractFromJsonFile\bin\Debug\net7.0\ExtractFromJsonFile.pdb
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\ExtractFromJsonFile\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\ExtractFromJsonFile\obj\Debug\net7.0\ExtractFromJsonFile.csproj.AssemblyReference.cache
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\ExtractFromJsonFile\obj\Debug\net7.0\ExtractFromJsonFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\ExtractFromJsonFile\obj\Debug\net7.0\ExtractFromJsonFile.AssemblyInfoInputs.cache
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\ExtractFromJsonFile\obj\Debug\net7.0\ExtractFromJsonFile.AssemblyInfo.cs
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\ExtractFromJsonFile\obj\Debug\net7.0\ExtractFromJsonFile.csproj.CoreCompileInputs.cache
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\ExtractFromJsonFile\obj\Debug\net7.0\ExtractFromJsonFile.csproj.CopyComplete
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\ExtractFromJsonFile\obj\Debug\net7.0\ExtractFromJsonFile.dll
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\ExtractFromJsonFile\obj\Debug\net7.0\refint\ExtractFromJsonFile.dll
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\ExtractFromJsonFile\obj\Debug\net7.0\ExtractFromJsonFile.pdb
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\ExtractFromJsonFile\obj\Debug\net7.0\ExtractFromJsonFile.genruntimeconfig.cache
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\ExtractFromJsonFile\obj\Debug\net7.0\ref\ExtractFromJsonFile.dll

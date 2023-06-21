@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Array\\DataStructures\\DataStructures.csproj": {}
+    "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\DataStructures\\DataStructures.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Array\\DataStructures\\DataStructures.csproj": {
+    "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\DataStructures\\DataStructures.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Array\\DataStructures\\DataStructures.csproj",
+        "projectUniqueName": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\DataStructures\\DataStructures.csproj",
         "projectName": "DataStructures",
-        "projectPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Array\\DataStructures\\DataStructures.csproj",
+        "projectPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\DataStructures\\DataStructures.csproj",
         "packagesPath": "C:\\Users\\erikk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Array\\DataStructures\\obj\\",
+        "outputPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\DataStructures\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erikk\\AppData\\Roaming\\NuGet\\NuGet.Config",
