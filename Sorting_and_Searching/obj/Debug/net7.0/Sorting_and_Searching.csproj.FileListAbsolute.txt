@@ -1,0 +1,15 @@
+C:\Users\erikk\Desktop\Easy_Collection\Array\Sorting_and_Searching\bin\Debug\net7.0\Sorting_and_Searching.exe
+C:\Users\erikk\Desktop\Easy_Collection\Array\Sorting_and_Searching\bin\Debug\net7.0\Sorting_and_Searching.deps.json
+C:\Users\erikk\Desktop\Easy_Collection\Array\Sorting_and_Searching\bin\Debug\net7.0\Sorting_and_Searching.runtimeconfig.json
+C:\Users\erikk\Desktop\Easy_Collection\Array\Sorting_and_Searching\bin\Debug\net7.0\Sorting_and_Searching.dll
+C:\Users\erikk\Desktop\Easy_Collection\Array\Sorting_and_Searching\bin\Debug\net7.0\Sorting_and_Searching.pdb
+C:\Users\erikk\Desktop\Easy_Collection\Array\Sorting_and_Searching\obj\Debug\net7.0\Sorting_and_Searching.csproj.AssemblyReference.cache
+C:\Users\erikk\Desktop\Easy_Collection\Array\Sorting_and_Searching\obj\Debug\net7.0\Sorting_and_Searching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikk\Desktop\Easy_Collection\Array\Sorting_and_Searching\obj\Debug\net7.0\Sorting_and_Searching.AssemblyInfoInputs.cache
+C:\Users\erikk\Desktop\Easy_Collection\Array\Sorting_and_Searching\obj\Debug\net7.0\Sorting_and_Searching.AssemblyInfo.cs
+C:\Users\erikk\Desktop\Easy_Collection\Array\Sorting_and_Searching\obj\Debug\net7.0\Sorting_and_Searching.csproj.CoreCompileInputs.cache
+C:\Users\erikk\Desktop\Easy_Collection\Array\Sorting_and_Searching\obj\Debug\net7.0\Sorting_and_Searching.dll
+C:\Users\erikk\Desktop\Easy_Collection\Array\Sorting_and_Searching\obj\Debug\net7.0\refint\Sorting_and_Searching.dll
+C:\Users\erikk\Desktop\Easy_Collection\Array\Sorting_and_Searching\obj\Debug\net7.0\Sorting_and_Searching.pdb
+C:\Users\erikk\Desktop\Easy_Collection\Array\Sorting_and_Searching\obj\Debug\net7.0\Sorting_and_Searching.genruntimeconfig.cache
+C:\Users\erikk\Desktop\Easy_Collection\Array\Sorting_and_Searching\obj\Debug\net7.0\ref\Sorting_and_Searching.dll
