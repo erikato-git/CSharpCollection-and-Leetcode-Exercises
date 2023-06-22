@@ -1,6 +1,0 @@
-C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\BlazorWasmCRUD\GameStore.Client\obj\Debug\net7.0\JCasal_BlazorWASM_GameStore.Client.csproj.AssemblyReference.cache
-C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\BlazorWasmCRUD\GameStore.Client\obj\Debug\net7.0\JCasal_BlazorWASM_GameStore.Client.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\BlazorWasmCRUD\GameStore.Client\obj\Debug\net7.0\JCasal_BlazorWASM_GameStore.Client.AssemblyInfoInputs.cache
-C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\BlazorWasmCRUD\GameStore.Client\obj\Debug\net7.0\JCasal_BlazorWASM_GameStore.Client.AssemblyInfo.cs
-C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\BlazorWasmCRUD\GameStore.Client\obj\Debug\net7.0\JCasal_BlazorWASM_GameStore.Client.csproj.CoreCompileInputs.cache
-C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\BlazorWasmCRUD\GameStore.Client\obj\Debug\net7.0\JCasal_BlazorWASM_GameStore.Client.MvcApplicationPartsAssemblyInfo.cache
