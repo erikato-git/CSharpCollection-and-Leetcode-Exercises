@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\Math\\Math.csproj",
-      "projectName": "Math",
-      "projectPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\Math\\Math.csproj",
+      "projectUniqueName": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\Math\\Leet_Math.csproj",
+      "projectName": "Leet_Math",
+      "projectPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\Math\\Leet_Math.csproj",
       "packagesPath": "C:\\Users\\erikk\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\Math\\obj\\",
       "projectStyle": "PackageReference",

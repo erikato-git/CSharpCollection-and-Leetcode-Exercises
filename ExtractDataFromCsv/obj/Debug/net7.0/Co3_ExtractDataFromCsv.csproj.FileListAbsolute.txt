@@ -1,0 +1,15 @@
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\ExtractDataFromCsv\bin\Debug\net7.0\Co3_ExtractDataFromCsv.exe
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\ExtractDataFromCsv\bin\Debug\net7.0\Co3_ExtractDataFromCsv.deps.json
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\ExtractDataFromCsv\bin\Debug\net7.0\Co3_ExtractDataFromCsv.runtimeconfig.json
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\ExtractDataFromCsv\bin\Debug\net7.0\Co3_ExtractDataFromCsv.dll
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\ExtractDataFromCsv\bin\Debug\net7.0\Co3_ExtractDataFromCsv.pdb
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\ExtractDataFromCsv\obj\Debug\net7.0\Co3_ExtractDataFromCsv.csproj.AssemblyReference.cache
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\ExtractDataFromCsv\obj\Debug\net7.0\Co3_ExtractDataFromCsv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\ExtractDataFromCsv\obj\Debug\net7.0\Co3_ExtractDataFromCsv.AssemblyInfoInputs.cache
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\ExtractDataFromCsv\obj\Debug\net7.0\Co3_ExtractDataFromCsv.AssemblyInfo.cs
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\ExtractDataFromCsv\obj\Debug\net7.0\Co3_ExtractDataFromCsv.csproj.CoreCompileInputs.cache
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\ExtractDataFromCsv\obj\Debug\net7.0\Co3_ExtractDataFromCsv.dll
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\ExtractDataFromCsv\obj\Debug\net7.0\refint\Co3_ExtractDataFromCsv.dll
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\ExtractDataFromCsv\obj\Debug\net7.0\Co3_ExtractDataFromCsv.pdb
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\ExtractDataFromCsv\obj\Debug\net7.0\Co3_ExtractDataFromCsv.genruntimeconfig.cache
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\ExtractDataFromCsv\obj\Debug\net7.0\ref\Co3_ExtractDataFromCsv.dll

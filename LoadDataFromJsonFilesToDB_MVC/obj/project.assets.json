@@ -3919,9 +3919,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\LoadDataFromJsonFilesToDB_MVC\\LoadDataFromJsonFilesToDB_MVC.csproj",
-      "projectName": "LoadDataFromJsonFilesToDB_MVC",
-      "projectPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\LoadDataFromJsonFilesToDB_MVC\\LoadDataFromJsonFilesToDB_MVC.csproj",
+      "projectUniqueName": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\LoadDataFromJsonFilesToDB_MVC\\Co3_LoadDataFromJsonFilesToDB_MVC.csproj",
+      "projectName": "Co3_LoadDataFromJsonFilesToDB_MVC",
+      "projectPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\LoadDataFromJsonFilesToDB_MVC\\Co3_LoadDataFromJsonFilesToDB_MVC.csproj",
       "packagesPath": "C:\\Users\\erikk\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\LoadDataFromJsonFilesToDB_MVC\\obj\\",
       "projectStyle": "PackageReference",

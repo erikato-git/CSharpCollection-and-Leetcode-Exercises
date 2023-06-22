@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\Trees\\Trees.csproj",
-      "projectName": "Trees",
-      "projectPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\Trees\\Trees.csproj",
+      "projectUniqueName": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\Trees\\Leet_Trees.csproj",
+      "projectName": "Leet_Trees",
+      "projectPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\Trees\\Leet_Trees.csproj",
       "packagesPath": "C:\\Users\\erikk\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\Trees\\obj\\",
       "projectStyle": "PackageReference",

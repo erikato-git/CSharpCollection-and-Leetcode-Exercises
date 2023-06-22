@@ -60,9 +60,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\ExtractFromJsonFile\\ExtractFromJsonFile.csproj",
-      "projectName": "ExtractFromJsonFile",
-      "projectPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\ExtractFromJsonFile\\ExtractFromJsonFile.csproj",
+      "projectUniqueName": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\ExtractFromJsonFile\\Co3_ExtractFromJsonFile.csproj",
+      "projectName": "Co3_ExtractFromJsonFile",
+      "projectPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\ExtractFromJsonFile\\Co3_ExtractFromJsonFile.csproj",
       "packagesPath": "C:\\Users\\erikk\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\ExtractFromJsonFile\\obj\\",
       "projectStyle": "PackageReference",

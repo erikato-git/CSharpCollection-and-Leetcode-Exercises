@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zxdbAQTxdmg5F63KQv0GZfbzelMFj2hxDvjFUT5NryHuH7YiMLravhIGZ9zWqVZMjAiOnYgLZddVPgr818mitw==",
+  "dgSpecHash": "lV62VoPiLOUM4jjdMBQYPhTC0D325XgghK7kuMElcMkBBnsHRVT0UDYvuOiVUn7oJlInJ2yoh+9bMgW1UvN1WA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\ExtractFromJsonFileAndDisplayToHTML\\ExtractFromJsonFileAndDisplayToHTML.csproj",
+  "projectFilePath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\ExtractFromJsonFileAndDisplayToHTML\\Co3_ExtractFromJsonFileAndDisplayToHTML.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erikk\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\erikk\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

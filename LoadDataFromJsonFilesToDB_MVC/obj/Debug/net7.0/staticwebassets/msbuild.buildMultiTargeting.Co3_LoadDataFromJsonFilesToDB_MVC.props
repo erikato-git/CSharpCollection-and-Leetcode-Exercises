@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Co3_LoadDataFromJsonFilesToDB_MVC.props" />
+</Project>

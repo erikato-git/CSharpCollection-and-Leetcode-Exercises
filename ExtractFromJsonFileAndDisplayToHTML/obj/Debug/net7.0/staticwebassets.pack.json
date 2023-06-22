@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\ExtractFromJsonFileAndDisplayToHTML\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ExtractFromJsonFileAndDisplayToHTML.bundle.scp.css",
-      "PackagePath": "staticwebassets\\ExtractFromJsonFileAndDisplayToHTML.bundle.scp.css"
+      "Id": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\ExtractFromJsonFileAndDisplayToHTML\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Co3_ExtractFromJsonFileAndDisplayToHTML.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Co3_ExtractFromJsonFileAndDisplayToHTML.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\ExtractFromJsonFileAndDisplayToHTML\\wwwroot\\css\\site.css",
@@ -245,20 +245,20 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ExtractFromJsonFileAndDisplayToHTML.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Co3_ExtractFromJsonFileAndDisplayToHTML.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ExtractFromJsonFileAndDisplayToHTML.props",
-      "PackagePath": "build\\ExtractFromJsonFileAndDisplayToHTML.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Co3_ExtractFromJsonFileAndDisplayToHTML.props",
+      "PackagePath": "build\\Co3_ExtractFromJsonFileAndDisplayToHTML.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ExtractFromJsonFileAndDisplayToHTML.props",
-      "PackagePath": "buildMultiTargeting\\ExtractFromJsonFileAndDisplayToHTML.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Co3_ExtractFromJsonFileAndDisplayToHTML.props",
+      "PackagePath": "buildMultiTargeting\\Co3_ExtractFromJsonFileAndDisplayToHTML.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ExtractFromJsonFileAndDisplayToHTML.props",
-      "PackagePath": "buildTransitive\\ExtractFromJsonFileAndDisplayToHTML.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Co3_ExtractFromJsonFileAndDisplayToHTML.props",
+      "PackagePath": "buildTransitive\\Co3_ExtractFromJsonFileAndDisplayToHTML.props"
     }
   ],
   "ElementsToRemove": []

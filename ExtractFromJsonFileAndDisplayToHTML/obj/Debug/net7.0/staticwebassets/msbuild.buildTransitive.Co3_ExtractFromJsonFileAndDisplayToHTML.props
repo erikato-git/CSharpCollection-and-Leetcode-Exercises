@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Co3_ExtractFromJsonFileAndDisplayToHTML.props" />
+</Project>

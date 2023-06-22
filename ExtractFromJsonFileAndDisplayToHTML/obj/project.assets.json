@@ -9726,9 +9726,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\ExtractFromJsonFileAndDisplayToHTML\\ExtractFromJsonFileAndDisplayToHTML.csproj",
-      "projectName": "ExtractFromJsonFileAndDisplayToHTML",
-      "projectPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\ExtractFromJsonFileAndDisplayToHTML\\ExtractFromJsonFileAndDisplayToHTML.csproj",
+      "projectUniqueName": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\ExtractFromJsonFileAndDisplayToHTML\\Co3_ExtractFromJsonFileAndDisplayToHTML.csproj",
+      "projectName": "Co3_ExtractFromJsonFileAndDisplayToHTML",
+      "projectPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\ExtractFromJsonFileAndDisplayToHTML\\Co3_ExtractFromJsonFileAndDisplayToHTML.csproj",
       "packagesPath": "C:\\Users\\erikk\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\ExtractFromJsonFileAndDisplayToHTML\\obj\\",
       "projectStyle": "PackageReference",

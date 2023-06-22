@@ -60,9 +60,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\ExtractFromDifferentJsonFileToOneStoreClass\\ExtractFromDifferentJsonFileToOneStoreClass.csproj",
-      "projectName": "ExtractFromDifferentJsonFileToOneStoreClass",
-      "projectPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\ExtractFromDifferentJsonFileToOneStoreClass\\ExtractFromDifferentJsonFileToOneStoreClass.csproj",
+      "projectUniqueName": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\ExtractFromDifferentJsonFileToOneStoreClass\\Co3_ExtractFromDifferentJsonFileToOneStoreClass.csproj",
+      "projectName": "Co3_ExtractFromDifferentJsonFileToOneStoreClass",
+      "projectPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\ExtractFromDifferentJsonFileToOneStoreClass\\Co3_ExtractFromDifferentJsonFileToOneStoreClass.csproj",
       "packagesPath": "C:\\Users\\erikk\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\ExtractFromDifferentJsonFileToOneStoreClass\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,0 +1,15 @@
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\Linked_list\bin\Debug\net7.0\Leet_Linked_list.exe
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\Linked_list\bin\Debug\net7.0\Leet_Linked_list.deps.json
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\Linked_list\bin\Debug\net7.0\Leet_Linked_list.runtimeconfig.json
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\Linked_list\bin\Debug\net7.0\Leet_Linked_list.dll
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\Linked_list\bin\Debug\net7.0\Leet_Linked_list.pdb
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\Linked_list\obj\Debug\net7.0\Leet_Linked_list.csproj.AssemblyReference.cache
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\Linked_list\obj\Debug\net7.0\Leet_Linked_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\Linked_list\obj\Debug\net7.0\Leet_Linked_list.AssemblyInfoInputs.cache
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\Linked_list\obj\Debug\net7.0\Leet_Linked_list.AssemblyInfo.cs
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\Linked_list\obj\Debug\net7.0\Leet_Linked_list.csproj.CoreCompileInputs.cache
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\Linked_list\obj\Debug\net7.0\Leet_Linked_list.dll
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\Linked_list\obj\Debug\net7.0\refint\Leet_Linked_list.dll
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\Linked_list\obj\Debug\net7.0\Leet_Linked_list.pdb
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\Linked_list\obj\Debug\net7.0\Leet_Linked_list.genruntimeconfig.cache
+C:\Users\erikk\Desktop\Easy_Collection\Easy_Collection\Linked_list\obj\Debug\net7.0\ref\Leet_Linked_list.dll

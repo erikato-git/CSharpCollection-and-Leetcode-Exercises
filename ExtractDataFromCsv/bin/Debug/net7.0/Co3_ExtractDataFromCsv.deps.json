@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Co3_ExtractDataFromCsv/1.0.0": {
+        "runtime": {
+          "Co3_ExtractDataFromCsv.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Co3_ExtractDataFromCsv/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

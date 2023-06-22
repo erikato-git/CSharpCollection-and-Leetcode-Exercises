@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\LoadDataFromJsonFilesToDB_MVC\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\LoadDataFromJsonFilesToDB_MVC.bundle.scp.css",
-      "PackagePath": "staticwebassets\\LoadDataFromJsonFilesToDB_MVC.bundle.scp.css"
+      "Id": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\LoadDataFromJsonFilesToDB_MVC\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Co3_LoadDataFromJsonFilesToDB_MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Co3_LoadDataFromJsonFilesToDB_MVC.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\LoadDataFromJsonFilesToDB_MVC\\wwwroot\\css\\site.css",
@@ -245,20 +245,20 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.LoadDataFromJsonFilesToDB_MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Co3_LoadDataFromJsonFilesToDB_MVC.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.LoadDataFromJsonFilesToDB_MVC.props",
-      "PackagePath": "build\\LoadDataFromJsonFilesToDB_MVC.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Co3_LoadDataFromJsonFilesToDB_MVC.props",
+      "PackagePath": "build\\Co3_LoadDataFromJsonFilesToDB_MVC.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.LoadDataFromJsonFilesToDB_MVC.props",
-      "PackagePath": "buildMultiTargeting\\LoadDataFromJsonFilesToDB_MVC.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Co3_LoadDataFromJsonFilesToDB_MVC.props",
+      "PackagePath": "buildMultiTargeting\\Co3_LoadDataFromJsonFilesToDB_MVC.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.LoadDataFromJsonFilesToDB_MVC.props",
-      "PackagePath": "buildTransitive\\LoadDataFromJsonFilesToDB_MVC.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Co3_LoadDataFromJsonFilesToDB_MVC.props",
+      "PackagePath": "buildTransitive\\Co3_LoadDataFromJsonFilesToDB_MVC.props"
     }
   ],
   "ElementsToRemove": []
