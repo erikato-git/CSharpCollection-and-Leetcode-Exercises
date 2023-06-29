@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OnXMUvyKsGdxbRtWoLPsaUnKWc/aEdve8vFtforFDCd7kwRqwgY6VaAO+f1M209sJCOJ1294c9x6GcK+m28s/g==",
+  "dgSpecHash": "3txBHJqa2enPbQXhUqWk0VfYDYTbmgUVlQxOEzhiw0DiKH77ddYvvCoRQ9D7NP7kMntG9TbKs5oMDLSEnb7LxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\DataStructures\\Leet_DataStructures.csproj",
+  "projectFilePath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\DataStructures\\Leet_DataStructures.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

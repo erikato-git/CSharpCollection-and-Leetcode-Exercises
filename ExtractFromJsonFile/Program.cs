@@ -29,6 +29,9 @@ using (Stream dataStream = response.GetResponseStream())
     }
 }
 
+// TODO: Overvej at bruge JsonSerializer i stedet: Tjek op på Serialize and Deserialize i C#, MVC
+// https://learn.microsoft.com/en-us/dotnet/standard/serialization/system-text-json/how-to?pivots=dotnet-8-0
+
 
 
 

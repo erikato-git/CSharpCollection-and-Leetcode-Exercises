@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\ExtractDataFromCsv\\Co3_ExtractDataFromCsv.csproj": {}
+    "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\ExtractDataFromCsv\\Co3_ExtractDataFromCsv.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\ExtractDataFromCsv\\Co3_ExtractDataFromCsv.csproj": {
+    "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\ExtractDataFromCsv\\Co3_ExtractDataFromCsv.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\ExtractDataFromCsv\\Co3_ExtractDataFromCsv.csproj",
+        "projectUniqueName": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\ExtractDataFromCsv\\Co3_ExtractDataFromCsv.csproj",
         "projectName": "Co3_ExtractDataFromCsv",
-        "projectPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\ExtractDataFromCsv\\Co3_ExtractDataFromCsv.csproj",
+        "projectPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\ExtractDataFromCsv\\Co3_ExtractDataFromCsv.csproj",
         "packagesPath": "C:\\Users\\erikk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\ExtractDataFromCsv\\obj\\",
+        "outputPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\ExtractDataFromCsv\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erikk\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,13 @@
+X-Sender: fluentEmail@ConsoleApp-Demo.com
+X-Receiver: "Erik" <erik.kato@hotmail.com>
+MIME-Version: 1.0
+From: fluentEmail@ConsoleApp-Demo.com
+To: "Erik" <erik.kato@hotmail.com>
+Date: 29 Jun 2023 23:17:20 +0200
+Subject: Email-demo
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+
+RGVhciBFcmlrIENsYXVzZW4sDQo8cD48ZW0+VGhhbmtzIGZvciBibGEgYmxhIGJsYSBC
+YWNrZWQgQWxhc2thLiBXZSBob3BlIHlvdSBlbmpveSBpdC48L2VtPjwvcD4NCi0gSGls
+c2VuIEphcGFuZXJsYW5kIGh2b3IgYmFuYW5lbiBncm9yDQo=

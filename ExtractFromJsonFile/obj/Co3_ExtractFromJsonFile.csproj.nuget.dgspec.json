@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\ExtractFromJsonFile\\Co3_ExtractFromJsonFile.csproj": {}
+    "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\ExtractFromJsonFile\\Co3_ExtractFromJsonFile.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\ExtractFromJsonFile\\Co3_ExtractFromJsonFile.csproj": {
+    "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\ExtractFromJsonFile\\Co3_ExtractFromJsonFile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\ExtractFromJsonFile\\Co3_ExtractFromJsonFile.csproj",
+        "projectUniqueName": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\ExtractFromJsonFile\\Co3_ExtractFromJsonFile.csproj",
         "projectName": "Co3_ExtractFromJsonFile",
-        "projectPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\ExtractFromJsonFile\\Co3_ExtractFromJsonFile.csproj",
+        "projectPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\ExtractFromJsonFile\\Co3_ExtractFromJsonFile.csproj",
         "packagesPath": "C:\\Users\\erikk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\ExtractFromJsonFile\\obj\\",
+        "outputPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\ExtractFromJsonFile\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erikk\\AppData\\Roaming\\NuGet\\NuGet.Config",

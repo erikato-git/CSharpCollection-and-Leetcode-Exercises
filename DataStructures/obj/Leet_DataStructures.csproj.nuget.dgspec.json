@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\DataStructures\\Leet_DataStructures.csproj": {}
+    "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\DataStructures\\Leet_DataStructures.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\DataStructures\\Leet_DataStructures.csproj": {
+    "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\DataStructures\\Leet_DataStructures.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\DataStructures\\Leet_DataStructures.csproj",
+        "projectUniqueName": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\DataStructures\\Leet_DataStructures.csproj",
         "projectName": "Leet_DataStructures",
-        "projectPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\DataStructures\\Leet_DataStructures.csproj",
+        "projectPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\DataStructures\\Leet_DataStructures.csproj",
         "packagesPath": "C:\\Users\\erikk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\DataStructures\\obj\\",
+        "outputPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\DataStructures\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erikk\\AppData\\Roaming\\NuGet\\NuGet.Config",

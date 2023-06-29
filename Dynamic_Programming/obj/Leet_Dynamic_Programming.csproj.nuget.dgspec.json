@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\Dynamic_Programming\\Leet_Dynamic_Programming.csproj": {}
+    "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\Dynamic_Programming\\Leet_Dynamic_Programming.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\Dynamic_Programming\\Leet_Dynamic_Programming.csproj": {
+    "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\Dynamic_Programming\\Leet_Dynamic_Programming.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\Dynamic_Programming\\Leet_Dynamic_Programming.csproj",
+        "projectUniqueName": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\Dynamic_Programming\\Leet_Dynamic_Programming.csproj",
         "projectName": "Leet_Dynamic_Programming",
-        "projectPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\Dynamic_Programming\\Leet_Dynamic_Programming.csproj",
+        "projectPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\Dynamic_Programming\\Leet_Dynamic_Programming.csproj",
         "packagesPath": "C:\\Users\\erikk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\Dynamic_Programming\\obj\\",
+        "outputPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\Dynamic_Programming\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erikk\\AppData\\Roaming\\NuGet\\NuGet.Config",

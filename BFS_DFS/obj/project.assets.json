@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\BFS_DFS\\BFS_DFS.csproj",
+      "projectUniqueName": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\BFS_DFS\\BFS_DFS.csproj",
       "projectName": "BFS_DFS",
-      "projectPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\BFS_DFS\\BFS_DFS.csproj",
+      "projectPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\BFS_DFS\\BFS_DFS.csproj",
       "packagesPath": "C:\\Users\\erikk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\BFS_DFS\\obj\\",
+      "outputPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\BFS_DFS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\erikk\\AppData\\Roaming\\NuGet\\NuGet.Config",

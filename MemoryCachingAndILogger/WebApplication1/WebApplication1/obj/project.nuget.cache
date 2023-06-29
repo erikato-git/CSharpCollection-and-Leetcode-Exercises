@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "47UicEYJksdkkUBCJjMP/Ftqu6y/tco0Ob26ZDXgQSXIdsx5Ryuvrha8HK+D4w9iNzpEe3Xf1SabxThgecOj/w==",
+  "dgSpecHash": "GzeLu2iH86ovU1UKr3DBzk0cuP5pjHqUM5W4y4NHtvjlmuv9YFW46XlWCqaNtDx9e5Vq7A6dQQpC1xWgvMC4cQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\Easy_Collection\\MemoryCachingAndILogger\\WebApplication1\\WebApplication1\\MemoryCachingAndILogger.csproj",
+  "projectFilePath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\MemoryCachingAndILogger\\WebApplication1\\WebApplication1\\MemoryCachingAndILogger.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erikk\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\erikk\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
