@@ -1,0 +1,12 @@
+C:\Users\erikk\Desktop\CSharpCollection\MongoDataAccess\bin\Debug\net6.0\MongoDataAccess.deps.json
+C:\Users\erikk\Desktop\CSharpCollection\MongoDataAccess\bin\Debug\net6.0\MongoDataAccess.dll
+C:\Users\erikk\Desktop\CSharpCollection\MongoDataAccess\bin\Debug\net6.0\MongoDataAccess.pdb
+C:\Users\erikk\Desktop\CSharpCollection\MongoDataAccess\obj\Debug\net6.0\MongoDataAccess.csproj.AssemblyReference.cache
+C:\Users\erikk\Desktop\CSharpCollection\MongoDataAccess\obj\Debug\net6.0\MongoDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikk\Desktop\CSharpCollection\MongoDataAccess\obj\Debug\net6.0\MongoDataAccess.AssemblyInfoInputs.cache
+C:\Users\erikk\Desktop\CSharpCollection\MongoDataAccess\obj\Debug\net6.0\MongoDataAccess.AssemblyInfo.cs
+C:\Users\erikk\Desktop\CSharpCollection\MongoDataAccess\obj\Debug\net6.0\MongoDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\erikk\Desktop\CSharpCollection\MongoDataAccess\obj\Debug\net6.0\MongoDataAccess.dll
+C:\Users\erikk\Desktop\CSharpCollection\MongoDataAccess\obj\Debug\net6.0\refint\MongoDataAccess.dll
+C:\Users\erikk\Desktop\CSharpCollection\MongoDataAccess\obj\Debug\net6.0\MongoDataAccess.pdb
+C:\Users\erikk\Desktop\CSharpCollection\MongoDataAccess\obj\Debug\net6.0\ref\MongoDataAccess.dll

@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "DM5gmvjuu1GZQeRZOB3BM0adtbC3vVf0QUd+UYgHuupXPKy4EjJRbI1dXwOmGiilksFE+bS6z+TXH+3kILEamQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\erikk\\Desktop\\CSharpCollection\\MongoDataAccess\\MongoDataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erikk\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
+    "C:\\Users\\erikk\\.nuget\\packages\\mongodb.bson\\2.14.1\\mongodb.bson.2.14.1.nupkg.sha512",
+    "C:\\Users\\erikk\\.nuget\\packages\\mongodb.driver\\2.14.1\\mongodb.driver.2.14.1.nupkg.sha512",
+    "C:\\Users\\erikk\\.nuget\\packages\\mongodb.driver.core\\2.14.1\\mongodb.driver.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\erikk\\.nuget\\packages\\mongodb.libmongocrypt\\1.3.0\\mongodb.libmongocrypt.1.3.0.nupkg.sha512",
+    "C:\\Users\\erikk\\.nuget\\packages\\sharpcompress\\0.30.1\\sharpcompress.0.30.1.nupkg.sha512",
+    "C:\\Users\\erikk\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\erikk\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\erikk\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\erikk\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\erikk\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

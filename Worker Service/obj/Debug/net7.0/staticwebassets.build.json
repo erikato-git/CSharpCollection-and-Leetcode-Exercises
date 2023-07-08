@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "76WNFta1r+EjyDKz2ldperY3dkCDWfGG2EjF5beOQP0=",
+  "Source": "Worker Service",
+  "BasePath": "_content/Worker Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

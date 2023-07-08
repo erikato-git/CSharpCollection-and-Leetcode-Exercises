@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xWbome2SJMSxTKckEvzOU/0yTc0H9x9C91ewLCdWXVRafyKBJQT5nQM4US9fUSKjxU84HIykNJuE9QgZUdC3Gw==",
+  "dgSpecHash": "LcwHBA8EYRWYYmkeEGUiemuiTDcqv4o/DQ+sQBRlfqppHKYAqhh8okFVt3u+UpkVzxl8OObg4inJTKGv/ajE/A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\ExtractFromDifferentJsonFileToOneStoreClass\\Co3_ExtractFromDifferentJsonFileToOneStoreClass.csproj",
+  "projectFilePath": "C:\\Users\\erikk\\Desktop\\CSharpCollection\\ExtractFromDifferentJsonFileToOneStoreClass\\Co3_ExtractFromDifferentJsonFileToOneStoreClass.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erikk\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

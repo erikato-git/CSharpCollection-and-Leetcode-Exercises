@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4Kj2T0SfQMOSAxAslvpdyzdVudnGqfaTakbBP3GcXjXYytv1DWQktjC81YeHEsKCABKWsFUu1wvepda3kyb86Q==",
+  "dgSpecHash": "nCzzpZRkcNpmzJY4Je/PQxyKXbbr70XStYidisKjkF4rpQqCi/GvtWM9jvHrGMwVWDbaM9yY1ZFDm3qJKn++UQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\FluentEmail\\FluentEmail\\FluentEmail\\FluentEmail.csproj",
+  "projectFilePath": "C:\\Users\\erikk\\Desktop\\CSharpCollection\\FluentEmail\\FluentEmail\\FluentEmail\\FluentEmail.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erikk\\.nuget\\packages\\fluentemail.core\\3.0.2\\fluentemail.core.3.0.2.nupkg.sha512",
     "C:\\Users\\erikk\\.nuget\\packages\\fluentemail.razor\\3.0.2\\fluentemail.razor.3.0.2.nupkg.sha512",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\Linked_list\\Leet_Linked_list.csproj",
+      "projectUniqueName": "C:\\Users\\erikk\\Desktop\\CSharpCollection\\Linked_list\\Leet_Linked_list.csproj",
       "projectName": "Leet_Linked_list",
-      "projectPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\Linked_list\\Leet_Linked_list.csproj",
+      "projectPath": "C:\\Users\\erikk\\Desktop\\CSharpCollection\\Linked_list\\Leet_Linked_list.csproj",
       "packagesPath": "C:\\Users\\erikk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\Linked_list\\obj\\",
+      "outputPath": "C:\\Users\\erikk\\Desktop\\CSharpCollection\\Linked_list\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\erikk\\AppData\\Roaming\\NuGet\\NuGet.Config",

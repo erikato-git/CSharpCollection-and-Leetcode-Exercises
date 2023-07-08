@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AccessModifiersAnotherAssembly/1.0.0": {
+        "dependencies": {
+          "AccessModifers": "1.0.0"
+        },
+        "runtime": {
+          "AccessModifiersAnotherAssembly.dll": {}
+        }
+      },
+      "AccessModifers/1.0.0": {
+        "runtime": {
+          "AccessModifers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AccessModifiersAnotherAssembly/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AccessModifers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

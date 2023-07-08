@@ -1,0 +1,15 @@
+C:\Users\erikk\Desktop\CSharpCollection\StressTesting\bin\Debug\net7.0\StressTesting.exe
+C:\Users\erikk\Desktop\CSharpCollection\StressTesting\bin\Debug\net7.0\StressTesting.deps.json
+C:\Users\erikk\Desktop\CSharpCollection\StressTesting\bin\Debug\net7.0\StressTesting.runtimeconfig.json
+C:\Users\erikk\Desktop\CSharpCollection\StressTesting\bin\Debug\net7.0\StressTesting.dll
+C:\Users\erikk\Desktop\CSharpCollection\StressTesting\bin\Debug\net7.0\StressTesting.pdb
+C:\Users\erikk\Desktop\CSharpCollection\StressTesting\obj\Debug\net7.0\StressTesting.csproj.AssemblyReference.cache
+C:\Users\erikk\Desktop\CSharpCollection\StressTesting\obj\Debug\net7.0\StressTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikk\Desktop\CSharpCollection\StressTesting\obj\Debug\net7.0\StressTesting.AssemblyInfoInputs.cache
+C:\Users\erikk\Desktop\CSharpCollection\StressTesting\obj\Debug\net7.0\StressTesting.AssemblyInfo.cs
+C:\Users\erikk\Desktop\CSharpCollection\StressTesting\obj\Debug\net7.0\StressTesting.csproj.CoreCompileInputs.cache
+C:\Users\erikk\Desktop\CSharpCollection\StressTesting\obj\Debug\net7.0\StressTesting.dll
+C:\Users\erikk\Desktop\CSharpCollection\StressTesting\obj\Debug\net7.0\refint\StressTesting.dll
+C:\Users\erikk\Desktop\CSharpCollection\StressTesting\obj\Debug\net7.0\StressTesting.pdb
+C:\Users\erikk\Desktop\CSharpCollection\StressTesting\obj\Debug\net7.0\StressTesting.genruntimeconfig.cache
+C:\Users\erikk\Desktop\CSharpCollection\StressTesting\obj\Debug\net7.0\ref\StressTesting.dll

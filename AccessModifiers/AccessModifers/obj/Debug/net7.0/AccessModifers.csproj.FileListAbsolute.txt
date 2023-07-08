@@ -1,0 +1,15 @@
+C:\Users\erikk\Desktop\CSharpCollection\AccessModifiers\AccessModifers\bin\Debug\net7.0\AccessModifers.exe
+C:\Users\erikk\Desktop\CSharpCollection\AccessModifiers\AccessModifers\bin\Debug\net7.0\AccessModifers.deps.json
+C:\Users\erikk\Desktop\CSharpCollection\AccessModifiers\AccessModifers\bin\Debug\net7.0\AccessModifers.runtimeconfig.json
+C:\Users\erikk\Desktop\CSharpCollection\AccessModifiers\AccessModifers\bin\Debug\net7.0\AccessModifers.dll
+C:\Users\erikk\Desktop\CSharpCollection\AccessModifiers\AccessModifers\bin\Debug\net7.0\AccessModifers.pdb
+C:\Users\erikk\Desktop\CSharpCollection\AccessModifiers\AccessModifers\obj\Debug\net7.0\AccessModifers.csproj.AssemblyReference.cache
+C:\Users\erikk\Desktop\CSharpCollection\AccessModifiers\AccessModifers\obj\Debug\net7.0\AccessModifers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikk\Desktop\CSharpCollection\AccessModifiers\AccessModifers\obj\Debug\net7.0\AccessModifers.AssemblyInfoInputs.cache
+C:\Users\erikk\Desktop\CSharpCollection\AccessModifiers\AccessModifers\obj\Debug\net7.0\AccessModifers.AssemblyInfo.cs
+C:\Users\erikk\Desktop\CSharpCollection\AccessModifiers\AccessModifers\obj\Debug\net7.0\AccessModifers.csproj.CoreCompileInputs.cache
+C:\Users\erikk\Desktop\CSharpCollection\AccessModifiers\AccessModifers\obj\Debug\net7.0\AccessModifers.dll
+C:\Users\erikk\Desktop\CSharpCollection\AccessModifiers\AccessModifers\obj\Debug\net7.0\refint\AccessModifers.dll
+C:\Users\erikk\Desktop\CSharpCollection\AccessModifiers\AccessModifers\obj\Debug\net7.0\AccessModifers.pdb
+C:\Users\erikk\Desktop\CSharpCollection\AccessModifiers\AccessModifers\obj\Debug\net7.0\AccessModifers.genruntimeconfig.cache
+C:\Users\erikk\Desktop\CSharpCollection\AccessModifiers\AccessModifers\obj\Debug\net7.0\ref\AccessModifers.dll

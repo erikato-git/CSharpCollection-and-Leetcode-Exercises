@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qums4EFk1UPmTM1DtOCIuH3ekfyRbqRaKbWBM9tbLgaJso6nCW0fqqLMdunfGIDzv1tTz5yR5MqLoz9Q8tSWFQ==",
+  "dgSpecHash": "X3Jw6vj1S+SiO1rTdIVIbBIXWla78zxa39uXoRsQolhIed6ASAJbQIP8t/3SLyD4QRu3xkwRAIispyraVnT1LA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\BFS_DFS\\BFS_DFS.csproj",
+  "projectFilePath": "C:\\Users\\erikk\\Desktop\\CSharpCollection\\BFS_DFS\\BFS_DFS.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

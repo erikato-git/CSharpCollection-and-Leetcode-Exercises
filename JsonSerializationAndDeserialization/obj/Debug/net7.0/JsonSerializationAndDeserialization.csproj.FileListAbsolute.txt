@@ -1,0 +1,15 @@
+C:\Users\erikk\Desktop\CSharpCollection\JsonSerializationAndDeserialization\bin\Debug\net7.0\JsonSerializationAndDeserialization.exe
+C:\Users\erikk\Desktop\CSharpCollection\JsonSerializationAndDeserialization\bin\Debug\net7.0\JsonSerializationAndDeserialization.deps.json
+C:\Users\erikk\Desktop\CSharpCollection\JsonSerializationAndDeserialization\bin\Debug\net7.0\JsonSerializationAndDeserialization.runtimeconfig.json
+C:\Users\erikk\Desktop\CSharpCollection\JsonSerializationAndDeserialization\bin\Debug\net7.0\JsonSerializationAndDeserialization.dll
+C:\Users\erikk\Desktop\CSharpCollection\JsonSerializationAndDeserialization\bin\Debug\net7.0\JsonSerializationAndDeserialization.pdb
+C:\Users\erikk\Desktop\CSharpCollection\JsonSerializationAndDeserialization\obj\Debug\net7.0\JsonSerializationAndDeserialization.csproj.AssemblyReference.cache
+C:\Users\erikk\Desktop\CSharpCollection\JsonSerializationAndDeserialization\obj\Debug\net7.0\JsonSerializationAndDeserialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikk\Desktop\CSharpCollection\JsonSerializationAndDeserialization\obj\Debug\net7.0\JsonSerializationAndDeserialization.AssemblyInfoInputs.cache
+C:\Users\erikk\Desktop\CSharpCollection\JsonSerializationAndDeserialization\obj\Debug\net7.0\JsonSerializationAndDeserialization.AssemblyInfo.cs
+C:\Users\erikk\Desktop\CSharpCollection\JsonSerializationAndDeserialization\obj\Debug\net7.0\JsonSerializationAndDeserialization.csproj.CoreCompileInputs.cache
+C:\Users\erikk\Desktop\CSharpCollection\JsonSerializationAndDeserialization\obj\Debug\net7.0\JsonSerializationAndDeserialization.dll
+C:\Users\erikk\Desktop\CSharpCollection\JsonSerializationAndDeserialization\obj\Debug\net7.0\refint\JsonSerializationAndDeserialization.dll
+C:\Users\erikk\Desktop\CSharpCollection\JsonSerializationAndDeserialization\obj\Debug\net7.0\JsonSerializationAndDeserialization.pdb
+C:\Users\erikk\Desktop\CSharpCollection\JsonSerializationAndDeserialization\obj\Debug\net7.0\JsonSerializationAndDeserialization.genruntimeconfig.cache
+C:\Users\erikk\Desktop\CSharpCollection\JsonSerializationAndDeserialization\obj\Debug\net7.0\ref\JsonSerializationAndDeserialization.dll

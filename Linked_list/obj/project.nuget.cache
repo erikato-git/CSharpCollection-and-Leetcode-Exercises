@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bYd6F25Bjms0gY1ooBXNID0gcWTZ8GvBX4QjweRcYrTQjBze3V8zV4eYSw+0hXSfYhATrvQ7Iy/Q51b0FpDBrA==",
+  "dgSpecHash": "ddt5BWnm074COzs45axgbFLaeCSwaXtB4RgoP+sCOVgZlws6Chl6xPPQodbdWYSavipVlXgVmUKO6MlihvG9FQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\Linked_list\\Leet_Linked_list.csproj",
+  "projectFilePath": "C:\\Users\\erikk\\Desktop\\CSharpCollection\\Linked_list\\Leet_Linked_list.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

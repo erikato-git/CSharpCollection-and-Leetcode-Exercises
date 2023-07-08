@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZG3EvydauFW9nPJMkDJElnGGPuB4rIkCvgcUhi7mC1EmubfqGKjcwoX6dEeXtnVWA6BVkUtnVOoUfCBfBiyUZQ==",
+  "dgSpecHash": "4i6YIC6k8s5gGC/kHakDW5GuXW45yf6rRm34Njft+45tAR1+lXRQs7j1FcJNyDRxMp6WVSwY2IykVTxQ9xHJ2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\LoadDataFromJsonFilesToDB_MVC\\Co3_LoadDataFromJsonFilesToDB_MVC.csproj",
+  "projectFilePath": "C:\\Users\\erikk\\Desktop\\CSharpCollection\\LoadDataFromJsonFilesToDB_MVC\\Co3_LoadDataFromJsonFilesToDB_MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erikk\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\erikk\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

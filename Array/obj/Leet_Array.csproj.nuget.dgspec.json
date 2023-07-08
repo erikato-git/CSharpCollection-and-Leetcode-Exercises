@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\Array\\Leet_Array.csproj": {}
+    "C:\\Users\\erikk\\Desktop\\CSharpCollection\\Array\\Leet_Array.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\Array\\Leet_Array.csproj": {
+    "C:\\Users\\erikk\\Desktop\\CSharpCollection\\Array\\Leet_Array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\Array\\Leet_Array.csproj",
+        "projectUniqueName": "C:\\Users\\erikk\\Desktop\\CSharpCollection\\Array\\Leet_Array.csproj",
         "projectName": "Leet_Array",
-        "projectPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\Array\\Leet_Array.csproj",
+        "projectPath": "C:\\Users\\erikk\\Desktop\\CSharpCollection\\Array\\Leet_Array.csproj",
         "packagesPath": "C:\\Users\\erikk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\Array\\obj\\",
+        "outputPath": "C:\\Users\\erikk\\Desktop\\CSharpCollection\\Array\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erikk\\AppData\\Roaming\\NuGet\\NuGet.Config",

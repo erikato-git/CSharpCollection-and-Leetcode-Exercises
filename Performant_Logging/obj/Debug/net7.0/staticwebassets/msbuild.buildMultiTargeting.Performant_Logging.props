@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Performant_Logging.props" />
+</Project>

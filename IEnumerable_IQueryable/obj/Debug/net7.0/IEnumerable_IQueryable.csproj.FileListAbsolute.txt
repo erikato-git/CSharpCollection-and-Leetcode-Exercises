@@ -1,0 +1,15 @@
+C:\Users\erikk\Desktop\CSharpCollection\IEnumerable_IQueryable\bin\Debug\net7.0\IEnumerable_IQueryable.exe
+C:\Users\erikk\Desktop\CSharpCollection\IEnumerable_IQueryable\bin\Debug\net7.0\IEnumerable_IQueryable.deps.json
+C:\Users\erikk\Desktop\CSharpCollection\IEnumerable_IQueryable\bin\Debug\net7.0\IEnumerable_IQueryable.runtimeconfig.json
+C:\Users\erikk\Desktop\CSharpCollection\IEnumerable_IQueryable\bin\Debug\net7.0\IEnumerable_IQueryable.dll
+C:\Users\erikk\Desktop\CSharpCollection\IEnumerable_IQueryable\bin\Debug\net7.0\IEnumerable_IQueryable.pdb
+C:\Users\erikk\Desktop\CSharpCollection\IEnumerable_IQueryable\obj\Debug\net7.0\IEnumerable_IQueryable.csproj.AssemblyReference.cache
+C:\Users\erikk\Desktop\CSharpCollection\IEnumerable_IQueryable\obj\Debug\net7.0\IEnumerable_IQueryable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikk\Desktop\CSharpCollection\IEnumerable_IQueryable\obj\Debug\net7.0\IEnumerable_IQueryable.AssemblyInfoInputs.cache
+C:\Users\erikk\Desktop\CSharpCollection\IEnumerable_IQueryable\obj\Debug\net7.0\IEnumerable_IQueryable.AssemblyInfo.cs
+C:\Users\erikk\Desktop\CSharpCollection\IEnumerable_IQueryable\obj\Debug\net7.0\IEnumerable_IQueryable.csproj.CoreCompileInputs.cache
+C:\Users\erikk\Desktop\CSharpCollection\IEnumerable_IQueryable\obj\Debug\net7.0\IEnumerable_IQueryable.dll
+C:\Users\erikk\Desktop\CSharpCollection\IEnumerable_IQueryable\obj\Debug\net7.0\refint\IEnumerable_IQueryable.dll
+C:\Users\erikk\Desktop\CSharpCollection\IEnumerable_IQueryable\obj\Debug\net7.0\IEnumerable_IQueryable.pdb
+C:\Users\erikk\Desktop\CSharpCollection\IEnumerable_IQueryable\obj\Debug\net7.0\IEnumerable_IQueryable.genruntimeconfig.cache
+C:\Users\erikk\Desktop\CSharpCollection\IEnumerable_IQueryable\obj\Debug\net7.0\ref\IEnumerable_IQueryable.dll

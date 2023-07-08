@@ -1,0 +1,33 @@
+C:\Users\erikk\Desktop\CSharpCollection\Worker Service\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\erikk\Desktop\CSharpCollection\Worker Service\bin\Debug\net7.0\appsettings.json
+C:\Users\erikk\Desktop\CSharpCollection\Worker Service\bin\Debug\net7.0\Worker Service.exe
+C:\Users\erikk\Desktop\CSharpCollection\Worker Service\bin\Debug\net7.0\Worker Service.deps.json
+C:\Users\erikk\Desktop\CSharpCollection\Worker Service\bin\Debug\net7.0\Worker Service.runtimeconfig.json
+C:\Users\erikk\Desktop\CSharpCollection\Worker Service\bin\Debug\net7.0\Worker Service.dll
+C:\Users\erikk\Desktop\CSharpCollection\Worker Service\bin\Debug\net7.0\Worker Service.pdb
+C:\Users\erikk\Desktop\CSharpCollection\Worker Service\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\erikk\Desktop\CSharpCollection\Worker Service\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\erikk\Desktop\CSharpCollection\Worker Service\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\erikk\Desktop\CSharpCollection\Worker Service\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\erikk\Desktop\CSharpCollection\Worker Service\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\erikk\Desktop\CSharpCollection\Worker Service\obj\Debug\net7.0\Worker Service.csproj.AssemblyReference.cache
+C:\Users\erikk\Desktop\CSharpCollection\Worker Service\obj\Debug\net7.0\Worker Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikk\Desktop\CSharpCollection\Worker Service\obj\Debug\net7.0\Worker Service.AssemblyInfoInputs.cache
+C:\Users\erikk\Desktop\CSharpCollection\Worker Service\obj\Debug\net7.0\Worker Service.AssemblyInfo.cs
+C:\Users\erikk\Desktop\CSharpCollection\Worker Service\obj\Debug\net7.0\Worker Service.csproj.CoreCompileInputs.cache
+C:\Users\erikk\Desktop\CSharpCollection\Worker Service\obj\Debug\net7.0\Worker Service.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\erikk\Desktop\CSharpCollection\Worker Service\obj\Debug\net7.0\Worker Service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\erikk\Desktop\CSharpCollection\Worker Service\obj\Debug\net7.0\staticwebassets\msbuild.Worker Service.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\erikk\Desktop\CSharpCollection\Worker Service\obj\Debug\net7.0\staticwebassets\msbuild.build.Worker Service.props
+C:\Users\erikk\Desktop\CSharpCollection\Worker Service\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Worker Service.props
+C:\Users\erikk\Desktop\CSharpCollection\Worker Service\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Worker Service.props
+C:\Users\erikk\Desktop\CSharpCollection\Worker Service\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\erikk\Desktop\CSharpCollection\Worker Service\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\erikk\Desktop\CSharpCollection\Worker Service\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\erikk\Desktop\CSharpCollection\Worker Service\obj\Debug\net7.0\scopedcss\bundle\Worker Service.styles.css
+C:\Users\erikk\Desktop\CSharpCollection\Worker Service\obj\Debug\net7.0\Worker Service.csproj.CopyComplete
+C:\Users\erikk\Desktop\CSharpCollection\Worker Service\obj\Debug\net7.0\Worker Service.dll
+C:\Users\erikk\Desktop\CSharpCollection\Worker Service\obj\Debug\net7.0\refint\Worker Service.dll
+C:\Users\erikk\Desktop\CSharpCollection\Worker Service\obj\Debug\net7.0\Worker Service.pdb
+C:\Users\erikk\Desktop\CSharpCollection\Worker Service\obj\Debug\net7.0\Worker Service.genruntimeconfig.cache
+C:\Users\erikk\Desktop\CSharpCollection\Worker Service\obj\Debug\net7.0\ref\Worker Service.dll

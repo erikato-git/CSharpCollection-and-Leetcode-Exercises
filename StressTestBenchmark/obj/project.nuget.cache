@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bkApCiQJsibaYuPNVmuIPjFWnZ9I/C6/6A6kHuG043Z5KQbq6OyEYttuxfBRG+SB6B3yLaiFTnCB/hcfJYdI9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\erikk\\Desktop\\CSharpCollection\\StressTestBenchmark\\StressTestBenchmark.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erikk\\.nuget\\packages\\nbench\\2.0.1\\nbench.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

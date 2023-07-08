@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "FluentEmail": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:58995;http://localhost:58996"
+    }
+  }
+}

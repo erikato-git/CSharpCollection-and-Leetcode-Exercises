@@ -1,0 +1,16 @@
+﻿<Window x:Class="ProgressbarWithCancellationToken.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProgressbarWithCancellationToken"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="800">
+    <Grid>
+        <Button Content="Loop through numbers" HorizontalAlignment="Center" Margin="0,108,0,0" VerticalAlignment="Top" Height="80" Width="319" Click="Button_Click" FontSize="24"/>
+        <TextBox Name="StatusTextbox" TextAlignment="Center" HorizontalAlignment="Center" Margin="0,303,0,0" TextWrapping="Wrap" Text="Start" VerticalAlignment="Top" Width="380" Height="69" FontSize="48"/>
+        <ProgressBar Name="_progressBar" HorizontalAlignment="Center" Height="30" Margin="0,234,0,0" VerticalAlignment="Top" Width="656"/>
+        <Button Content="Cancel" HorizontalAlignment="Center" Margin="0,412,0,0" VerticalAlignment="Top" Height="41" Width="138" FontSize="22" Click="Button_Click_1"/>
+
+    </Grid>
+</Window>

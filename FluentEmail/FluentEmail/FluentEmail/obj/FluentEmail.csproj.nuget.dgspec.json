@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\FluentEmail\\FluentEmail\\FluentEmail\\FluentEmail.csproj": {}
+    "C:\\Users\\erikk\\Desktop\\CSharpCollection\\FluentEmail\\FluentEmail\\FluentEmail\\FluentEmail.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\FluentEmail\\FluentEmail\\FluentEmail\\FluentEmail.csproj": {
+    "C:\\Users\\erikk\\Desktop\\CSharpCollection\\FluentEmail\\FluentEmail\\FluentEmail\\FluentEmail.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\FluentEmail\\FluentEmail\\FluentEmail\\FluentEmail.csproj",
+        "projectUniqueName": "C:\\Users\\erikk\\Desktop\\CSharpCollection\\FluentEmail\\FluentEmail\\FluentEmail\\FluentEmail.csproj",
         "projectName": "FluentEmail",
-        "projectPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\FluentEmail\\FluentEmail\\FluentEmail\\FluentEmail.csproj",
+        "projectPath": "C:\\Users\\erikk\\Desktop\\CSharpCollection\\FluentEmail\\FluentEmail\\FluentEmail\\FluentEmail.csproj",
         "packagesPath": "C:\\Users\\erikk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\FluentEmail\\FluentEmail\\FluentEmail\\obj\\",
+        "outputPath": "C:\\Users\\erikk\\Desktop\\CSharpCollection\\FluentEmail\\FluentEmail\\FluentEmail\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erikk\\AppData\\Roaming\\NuGet\\NuGet.Config",

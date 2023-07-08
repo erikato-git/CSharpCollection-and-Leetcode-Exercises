@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cSLF4jp4wkJlqiYvy7EzwKaV/W/KUy8vWAKIWzCABAl7k7jvYEmPGlH75C64lCs4x9yrAMDVzefbEop1rnvK6g==",
+  "dgSpecHash": "Cy2JpmS/BbppIvfAsz/slg91GE/qQ6ZOWrI4Mo8n3Nb6gWJwuy7C/NpmjdVmmUmU0gWbpoNBCuu5r+C6bm01Jg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\ExtractFromJsonFile\\Co3_ExtractFromJsonFile.csproj",
+  "projectFilePath": "C:\\Users\\erikk\\Desktop\\CSharpCollection\\ExtractFromJsonFile\\Co3_ExtractFromJsonFile.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erikk\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

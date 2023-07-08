@@ -34,7 +34,7 @@ namespace DataStructures
             QueueArray = newArray;
 
         }
-
+        
         public void Dequeue()
         {
             int last = QueueArray[QueueArray.Length-1];

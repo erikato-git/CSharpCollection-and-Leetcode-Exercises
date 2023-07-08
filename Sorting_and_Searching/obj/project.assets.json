@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\Sorting_and_Searching\\Leet_Sorting.csproj",
+      "projectUniqueName": "C:\\Users\\erikk\\Desktop\\CSharpCollection\\Sorting_and_Searching\\Leet_Sorting.csproj",
       "projectName": "Leet_Sorting",
-      "projectPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\Sorting_and_Searching\\Leet_Sorting.csproj",
+      "projectPath": "C:\\Users\\erikk\\Desktop\\CSharpCollection\\Sorting_and_Searching\\Leet_Sorting.csproj",
       "packagesPath": "C:\\Users\\erikk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\Sorting_and_Searching\\obj\\",
+      "outputPath": "C:\\Users\\erikk\\Desktop\\CSharpCollection\\Sorting_and_Searching\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\erikk\\AppData\\Roaming\\NuGet\\NuGet.Config",

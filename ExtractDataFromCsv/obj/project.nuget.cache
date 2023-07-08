@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iREPbao5i03csTfmU+JDBOC+NKmdBMailH61wfSFeCMep8unYD/gMaPku3a+ZO2EyV8vDgwkdDjEGItRKQDTOg==",
+  "dgSpecHash": "CclLNz+fTCwgIFNt/ADwPzSuuD5rZH8848l8pfnJNundUtmnutHU8b/QL9K7nQnXlm4u3TRyJLZ0vqB+KCDllg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\erikk\\Desktop\\Easy_Collection\\CSharpCollection\\ExtractDataFromCsv\\Co3_ExtractDataFromCsv.csproj",
+  "projectFilePath": "C:\\Users\\erikk\\Desktop\\CSharpCollection\\ExtractDataFromCsv\\Co3_ExtractDataFromCsv.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
