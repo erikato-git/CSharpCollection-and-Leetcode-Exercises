@@ -1,0 +1,97 @@
+﻿@page "/fetchdata"
+
+<PageTitle>Weather forecast</PageTitle>
+
+@using RedisBlazorDemo.Data
+@using RedisBlazorDemo.Extensions
+@inject WeatherForecastService ForecastService
+@inject IDistributedCache cache
+
+
+<h1>Weather forecast</h1>
+
+<p>This component demonstrates fetching data from a service.</p>
+
+<button class="btn btn-primary" @onclick="LoadForecast">Load Forecast</button>
+
+@if(forecasts is null && loadLocation == "")    // the first time loadlocation is called it will be an empty text-string
+{
+    <p><em>Click the button to load the forecast</em></p>
+}
+else if (forecasts == null)         // is and == is interchangeably, but '==' can be overridden
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <!-- if isCacheData is not sat to tex-danger it will display the text differently -->
+    <div class="h3 @isCacheData">@loadLocation</div>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Temp. (C)</th>
+                <th>Temp. (F)</th>
+                <th>Summary</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var forecast in forecasts)
+            {
+                <tr>
+                    <td>@forecast.Date.ToShortDateString()</td>
+                    <td>@forecast.TemperatureC</td>
+                    <td>@forecast.TemperatureF</td>
+                    <td>@forecast.Summary</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private WeatherForecast[]? forecasts;
+    private string loadLocation = "";
+    private string isCacheData = "";
+
+
+    private async Task LoadForecast()
+    {
+        forecasts = null;
+        loadLocation = null;
+
+        string recordKey = "WeatherForecast_" + DateTime.Now.ToString("yyyyMMdd_hhmm");
+
+        // --- Crucial part: if the data is not there, load the data as normally from db and cache it --- /
+
+        forecasts = await cache.GetRecordAsync<WeatherForecast[]>(recordKey);   // get the jsondata from redis based on the recordkey
+
+        // if no data in redis-cache load new
+        if(forecasts is null)
+        {
+            forecasts = await ForecastService.GetForecastAsync(DateTime.Now);
+
+            loadLocation = $"Loaded from API at { DateTime.Now }";
+            isCacheData = "";
+
+            await cache.SetRecordAsync(recordKey, forecasts);       // save the forecast to redis with a unique recordKey
+
+        }
+
+        // --- Crucial part - end ---- //
+
+        else
+        {
+            loadLocation = $"Loaded from the cache at { DateTime.Now }";
+            isCacheData = "text-danger";        // just to indicate that current data is loaded from the redis-cache
+
+        }
+
+
+
+    }
+
+
+
+}

@@ -1,0 +1,80 @@
+﻿@page "/"
+@using Microsoft.AspNetCore.SignalR.Client
+@inject NavigationManager NavManager
+@implements IAsyncDisposable
+
+<div class="form-group">
+    <label>
+        User: <input @bind="userInput" />
+    </label>
+</div>
+<div class="form-group">
+    <label>
+        Message: <input @bind="messageInput" />
+    </label>
+</div>
+<button @onclick="Send" disabled="@(IsConnected == false)">Send</button>        <!-- Button is disabled if not connected to the server -->
+
+
+<hr />
+
+<ul>
+    @foreach (string message in messages)
+    {
+        <li>@message</li>        
+    }
+</ul>
+
+
+@code{
+    private HubConnection? hubConnection;       // connection to SignalR-server
+    private List<string> messages = new();      // list of messages we get from chat
+    private string? userInput;
+    private string? messageInput;
+
+    protected override async Task OnInitializedAsync()
+    {
+        hubConnection = new HubConnectionBuilder()
+            .WithUrl(NavManager.ToAbsoluteUri("/chathub"))     // Client side way to connect to ChatHub
+            .WithAutomaticReconnect()       // try to reconnect after lost connection
+            .Build();
+
+        // string, string = represent user and message from SendMessage from ChatHub-class. "ReceiveMessage" must match the label from same method
+        hubConnection.On<string, string>("ReceiveMessage", (user, message) =>
+        {
+            var formattedMessage = $"{user}: {message}";
+            messages.Add(formattedMessage);
+            InvokeAsync(StateHasChanged);
+        });
+
+        await hubConnection.StartAsync();
+    }
+
+    private async Task Send()
+    {
+        if (hubConnection is not null)
+        {
+            await hubConnection.SendAsync("SendMessage", userInput, messageInput);      // Calls the SendMessage-method in ChatHub-class          
+        }
+    }
+
+    // If HubConnectionState.Connected is connected, it returns true
+    public bool IsConnected => hubConnection?.State == HubConnectionState.Connected; 
+
+    // Freeing unused resources
+    public async ValueTask DisposeAsync()
+    {
+        if (hubConnection is not null)
+        {
+            await hubConnection.DisposeAsync();
+        }
+    }
+
+}
+
+
+
+
+
+
+

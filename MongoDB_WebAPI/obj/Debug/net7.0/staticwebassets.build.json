@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "wGmdKU7FUHZ61PAGR1Bd2STPgFw3Y0QXLx4nLLyMFlY=",
-  "Source": "MongoDB_WebAPI",
-  "BasePath": "_content/MongoDB_WebAPI",
+  "Hash": "/KrlKzynl88QjdW9+vspFC59+CQj/Pi6wkrd4YnLQFU=",
+  "Source": "MongoDB_WebAPI_failed",
+  "BasePath": "_content/MongoDB_WebAPI_failed",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

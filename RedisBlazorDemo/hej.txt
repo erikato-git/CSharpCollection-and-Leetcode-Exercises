@@ -1,0 +1,36 @@
+﻿
+Inspect redis-docker container:
+docker exec -it my_redis sh
+# redis-cli
+127.0.0.1:6379> ping
+PONG
+127.0.0.1:6379> select 0			// select my first database
+OK
+127.0.0.1:6379> dbsize				// how big is my database
+...
+127.0.0.1:6379> scan 0				// give me everything in my database
+...
+eg. 1) "RedisBlazorDemo_WeatherForecast_20230709_1000"
+
+127.0.0.1:6379> hgetall RedisBlazorDemo_WeatherForecast_20230709_1000 				// look up data in cache
+eg.
+3) "data"
+4) "[{\"Date\":\"2023-07-10T22:00:48.2596261+02:00\",\"TemperatureC\":49,\"TemperatureF\":120,\"Summary\":\"Scorching\"},
+{\"Date\":\"2023-07-11T22:00:48.2596261+02:00\",\"TemperatureC\":35,\"TemperatureF\":94,\"Summary\":\"Cool\"},
+{\"Date\":\"2023-07-12T22:00:48.2596261+02:00\",\"TemperatureC\":46,\"TemperatureF\":114,\"Summary\":\"Sweltering\"},
+{\"Date\":\"2023-07-13T22:00:48.2596261+02:00\",\"TemperatureC\":47,\"TemperatureF\":116,\"Summary\":\"Chilly\"},
+{\"Date\":\"2023-07-14T22:00:48.2596261+02:00\",\"TemperatureC\":1,\"TemperatureF\":33,\"Summary\":\"Freezing\"}]"
+5) "sldexp"
+6) "-1"
+
+
+For Azure:
+1. Resoure group > Create: Azure Cache for Redis > choose: Basic C0 plan
+2. Go to the Azure Cache for Redis under your resource group > get connection strings to azure under "Keys"
+3. Create an secrets.json and create a new connection-string provided from azure, secrets.json will override appsettings.json
+
+
+Test other browsers access data from the cache:
+1. Run the blazor program and load the data to cache
+2. Copy paste local-host, open up a new brower and copy-paste the localhost-port to the url
+3. Then check the message "Loaded from cache" occurs

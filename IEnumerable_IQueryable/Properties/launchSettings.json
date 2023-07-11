@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "IEnumerable_IQueryable": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:53103;http://localhost:53104"
+    }
+  }
+}
