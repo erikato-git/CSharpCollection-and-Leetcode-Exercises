@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\IEnumerable_ICollection_IList.props" />
+</Project>

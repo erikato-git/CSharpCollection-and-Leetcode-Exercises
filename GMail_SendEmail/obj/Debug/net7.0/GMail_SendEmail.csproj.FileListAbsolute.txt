@@ -1,0 +1,15 @@
+C:\Users\erikk\Desktop\CSharpCollection\GMail_SendEmail\bin\Debug\net7.0\GMail_SendEmail.exe
+C:\Users\erikk\Desktop\CSharpCollection\GMail_SendEmail\bin\Debug\net7.0\GMail_SendEmail.deps.json
+C:\Users\erikk\Desktop\CSharpCollection\GMail_SendEmail\bin\Debug\net7.0\GMail_SendEmail.runtimeconfig.json
+C:\Users\erikk\Desktop\CSharpCollection\GMail_SendEmail\bin\Debug\net7.0\GMail_SendEmail.dll
+C:\Users\erikk\Desktop\CSharpCollection\GMail_SendEmail\bin\Debug\net7.0\GMail_SendEmail.pdb
+C:\Users\erikk\Desktop\CSharpCollection\GMail_SendEmail\obj\Debug\net7.0\GMail_SendEmail.csproj.AssemblyReference.cache
+C:\Users\erikk\Desktop\CSharpCollection\GMail_SendEmail\obj\Debug\net7.0\GMail_SendEmail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikk\Desktop\CSharpCollection\GMail_SendEmail\obj\Debug\net7.0\GMail_SendEmail.AssemblyInfoInputs.cache
+C:\Users\erikk\Desktop\CSharpCollection\GMail_SendEmail\obj\Debug\net7.0\GMail_SendEmail.AssemblyInfo.cs
+C:\Users\erikk\Desktop\CSharpCollection\GMail_SendEmail\obj\Debug\net7.0\GMail_SendEmail.csproj.CoreCompileInputs.cache
+C:\Users\erikk\Desktop\CSharpCollection\GMail_SendEmail\obj\Debug\net7.0\GMail_SendEmail.dll
+C:\Users\erikk\Desktop\CSharpCollection\GMail_SendEmail\obj\Debug\net7.0\refint\GMail_SendEmail.dll
+C:\Users\erikk\Desktop\CSharpCollection\GMail_SendEmail\obj\Debug\net7.0\GMail_SendEmail.pdb
+C:\Users\erikk\Desktop\CSharpCollection\GMail_SendEmail\obj\Debug\net7.0\GMail_SendEmail.genruntimeconfig.cache
+C:\Users\erikk\Desktop\CSharpCollection\GMail_SendEmail\obj\Debug\net7.0\ref\GMail_SendEmail.dll

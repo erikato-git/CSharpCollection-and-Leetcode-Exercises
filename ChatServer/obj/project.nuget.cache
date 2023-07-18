@@ -1,0 +1,60 @@
+{
+  "version": 2,
+  "dgSpecHash": "v48+HZqWHQpEVbC4Hbez8zIj6qo/5smtOzeeTgV+uMl6ciTu7q4HOjVHUABwZuI0kzxyLhBsNLP8mnNI0gmJOA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\erikk\\Desktop\\CSharpCollection\\IEnumerable_ICollection_IList\\IEnumerable_ICollection_IList_MVC_DB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erikk\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.8\\microsoft.entityframeworkcore.7.0.8.nupkg.sha512",
+    "C:\\Users\\erikk\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.8\\microsoft.entityframeworkcore.design.7.0.8.nupkg.sha512",
+    "C:\\Users\\erikk\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\7.0.8\\microsoft.entityframeworkcore.sqlserver.7.0.8.nupkg.sha512",
+    "C:\\Users\\erikk\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.8\\microsoft.entityframeworkcore.tools.7.0.8.nupkg.sha512",
+    "C:\\Users\\erikk\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.design\\7.0.7\\microsoft.visualstudio.web.codegeneration.design.7.0.7.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.VisualStudio.Web.CodeGeneration.Design 7.0.7 is not compatible with net5.0-windows7.0 (.NETCoreApp,Version=v5.0). Package Microsoft.VisualStudio.Web.CodeGeneration.Design 7.0.7 supports: net7.0 (.NETCoreApp,Version=v7.0)",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGeneration.Design",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore 7.0.8 is not compatible with net5.0-windows7.0 (.NETCoreApp,Version=v5.0). Package Microsoft.EntityFrameworkCore 7.0.8 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.SqlServer 7.0.8 is not compatible with net5.0-windows7.0 (.NETCoreApp,Version=v5.0). Package Microsoft.EntityFrameworkCore.SqlServer 7.0.8 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Tools 7.0.8 is not compatible with net5.0-windows7.0 (.NETCoreApp,Version=v5.0). Package Microsoft.EntityFrameworkCore.Tools 7.0.8 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore.Tools",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Design 7.0.8 is not compatible with net5.0-windows7.0 (.NETCoreApp,Version=v5.0). Package Microsoft.EntityFrameworkCore.Design 7.0.8 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore.Design",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}

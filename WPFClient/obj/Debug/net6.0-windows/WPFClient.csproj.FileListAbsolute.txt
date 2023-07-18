@@ -1,8 +1,3 @@
-C:\Users\erikk\Desktop\CSharpCollection\WPFClient\obj\Debug\net6.0-windows\WPFClient.csproj.AssemblyReference.cache
-C:\Users\erikk\Desktop\CSharpCollection\WPFClient\obj\Debug\net6.0-windows\MainWindow.g.cs
-C:\Users\erikk\Desktop\CSharpCollection\WPFClient\obj\Debug\net6.0-windows\App.g.cs
-C:\Users\erikk\Desktop\CSharpCollection\WPFClient\obj\Debug\net6.0-windows\WPFClient_MarkupCompile.cache
-C:\Users\erikk\Desktop\CSharpCollection\WPFClient\obj\Debug\net6.0-windows\WPFClient_MarkupCompile.lref
 C:\Users\erikk\Desktop\CSharpCollection\WPFClient\bin\Debug\net6.0-windows\WPFClient.exe
 C:\Users\erikk\Desktop\CSharpCollection\WPFClient\bin\Debug\net6.0-windows\WPFClient.deps.json
 C:\Users\erikk\Desktop\CSharpCollection\WPFClient\bin\Debug\net6.0-windows\WPFClient.runtimeconfig.json
@@ -23,6 +18,11 @@ C:\Users\erikk\Desktop\CSharpCollection\WPFClient\bin\Debug\net6.0-windows\Micro
 C:\Users\erikk\Desktop\CSharpCollection\WPFClient\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
 C:\Users\erikk\Desktop\CSharpCollection\WPFClient\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
 C:\Users\erikk\Desktop\CSharpCollection\WPFClient\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\erikk\Desktop\CSharpCollection\WPFClient\obj\Debug\net6.0-windows\WPFClient.csproj.AssemblyReference.cache
+C:\Users\erikk\Desktop\CSharpCollection\WPFClient\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\erikk\Desktop\CSharpCollection\WPFClient\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\erikk\Desktop\CSharpCollection\WPFClient\obj\Debug\net6.0-windows\WPFClient_MarkupCompile.cache
+C:\Users\erikk\Desktop\CSharpCollection\WPFClient\obj\Debug\net6.0-windows\WPFClient_MarkupCompile.lref
 C:\Users\erikk\Desktop\CSharpCollection\WPFClient\obj\Debug\net6.0-windows\MainWindow.baml
 C:\Users\erikk\Desktop\CSharpCollection\WPFClient\obj\Debug\net6.0-windows\WPFClient.g.resources
 C:\Users\erikk\Desktop\CSharpCollection\WPFClient\obj\Debug\net6.0-windows\WPFClient.GeneratedMSBuildEditorConfig.editorconfig

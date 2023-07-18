@@ -1,0 +1,12 @@
+﻿
+Creating table and insert value in SQL:
+
+CREATE TABLE SuperHeroes (
+    Id int identity NOT NULL UNIQUE,
+    FirstName varchar(255) NOT NULL,
+    LastName varchar(255) NOT NULL,
+    Place varchar(255) NOT NULL
+);
+
+insert into SuperHeroes(FirstName, LastName, Place)
+values ('Peter','Parker','New York')

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\IEnumerable_ICollection_IList_MVC_DB.props" />
+</Project>

@@ -20,7 +20,7 @@ namespace FluentEmail
             {
                 EnableSsl = false,
                 DeliveryMethod = SmtpDeliveryMethod.SpecifiedPickupDirectory,
-                PickupDirectoryLocation = @"C:\Users\erikk\Desktop\Easy_Collection\CSharpCollection\FluentEmail\FluentEmail",         // Could have changed
+                PickupDirectoryLocation = @"C:\Users\erikk\Desktop\CSharpCollection\FluentEmail\FluentEmail",         // Could have changed
                 Port = DEFAULT_PORT
             });
 

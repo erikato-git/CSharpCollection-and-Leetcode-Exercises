@@ -1,0 +1,15 @@
+C:\Users\erikk\Desktop\CSharpCollection\FileStream_StreamWR_BinaryWR\bin\Release\net7.0\FileStream_StreamWR_BinaryWR.exe
+C:\Users\erikk\Desktop\CSharpCollection\FileStream_StreamWR_BinaryWR\bin\Release\net7.0\FileStream_StreamWR_BinaryWR.deps.json
+C:\Users\erikk\Desktop\CSharpCollection\FileStream_StreamWR_BinaryWR\bin\Release\net7.0\FileStream_StreamWR_BinaryWR.runtimeconfig.json
+C:\Users\erikk\Desktop\CSharpCollection\FileStream_StreamWR_BinaryWR\bin\Release\net7.0\FileStream_StreamWR_BinaryWR.dll
+C:\Users\erikk\Desktop\CSharpCollection\FileStream_StreamWR_BinaryWR\bin\Release\net7.0\FileStream_StreamWR_BinaryWR.pdb
+C:\Users\erikk\Desktop\CSharpCollection\FileStream_StreamWR_BinaryWR\obj\Release\net7.0\FileStream_StreamWR_BinaryWR.csproj.AssemblyReference.cache
+C:\Users\erikk\Desktop\CSharpCollection\FileStream_StreamWR_BinaryWR\obj\Release\net7.0\FileStream_StreamWR_BinaryWR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikk\Desktop\CSharpCollection\FileStream_StreamWR_BinaryWR\obj\Release\net7.0\FileStream_StreamWR_BinaryWR.AssemblyInfoInputs.cache
+C:\Users\erikk\Desktop\CSharpCollection\FileStream_StreamWR_BinaryWR\obj\Release\net7.0\FileStream_StreamWR_BinaryWR.AssemblyInfo.cs
+C:\Users\erikk\Desktop\CSharpCollection\FileStream_StreamWR_BinaryWR\obj\Release\net7.0\FileStream_StreamWR_BinaryWR.csproj.CoreCompileInputs.cache
+C:\Users\erikk\Desktop\CSharpCollection\FileStream_StreamWR_BinaryWR\obj\Release\net7.0\FileStream_StreamWR_BinaryWR.dll
+C:\Users\erikk\Desktop\CSharpCollection\FileStream_StreamWR_BinaryWR\obj\Release\net7.0\refint\FileStream_StreamWR_BinaryWR.dll
+C:\Users\erikk\Desktop\CSharpCollection\FileStream_StreamWR_BinaryWR\obj\Release\net7.0\FileStream_StreamWR_BinaryWR.pdb
+C:\Users\erikk\Desktop\CSharpCollection\FileStream_StreamWR_BinaryWR\obj\Release\net7.0\FileStream_StreamWR_BinaryWR.genruntimeconfig.cache
+C:\Users\erikk\Desktop\CSharpCollection\FileStream_StreamWR_BinaryWR\obj\Release\net7.0\ref\FileStream_StreamWR_BinaryWR.dll

@@ -1,0 +1,32 @@
+﻿
+ASP.NET Core Identity - Video (1-9 + 12)
+https://www.youtube.com/playlist?list=PL82C6-O4XrHccS2fD8tdEF9UoO3VwKeGK
+
+
+1. ViewModels as DTOs, Razor-page uses the ViewModels as model, 
+2. Razorpage match the name of endpoints and the folder that contains the razorpages match the controllers name
+3. DI: Identity must be configured to an class eg. AppUser in DI and that class must be used everywhere as IdentityUser eg. in DataContext- / ApplicationDBContext-class
+4. DI: two-factor-authentication and cookies for Identity must be enabled by DI by AddDefaultTokenProviders() 
+5. DI: options for eg. login attempt can be specified by IdentityOptions by DI
+6. Everytime user-input from ViewModels were handle the properties were checked if they satisfied the requirements, ModelState.IsValid
+7. Everytime an operation was executed in the endpoint eg. to userManager / signInManager the result was check if the process could keep going on or should throw an exception, if(result.Succeed)
+8. ValidationSummary will display all error that could occur in the razor-page.
+
+
+AppUsersController - Identity:
+1. Handles creating User-account (Register), SignIn and Roles
+ForgotPassword: Find email in db, generates reset-token, emails the reset-link, when clicking on the link e-box the next endpoint will be called 'ResetPassword'
+ResetPassword: Link carrys a which is used when the user updates its password with a new one
+ExternalLogin: get the external authentication providers from the Login.cshtml which are configured in Program.cs by DI. The properties confiugred by user-secrets are send to the external auth provider
+ExternalLogin: "Tjek op på det, der er rimeligt meget til det..."
+Register: Rimeligt selvforklarende bortset fra Roles
+
+
+UsersController:
+Handles CRUD-operations like normal. Uses the table 'Users' from db, which intances was created by userManager in AppUsersController.
+
+
+
+
+
+

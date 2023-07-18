@@ -1,0 +1,5 @@
+C:\Users\erikk\Desktop\CSharpCollection\Serialization\obj\Debug\net5.0\Serialization.csproj.AssemblyReference.cache
+C:\Users\erikk\Desktop\CSharpCollection\Serialization\obj\Debug\net5.0\Serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikk\Desktop\CSharpCollection\Serialization\obj\Debug\net5.0\Serialization.AssemblyInfoInputs.cache
+C:\Users\erikk\Desktop\CSharpCollection\Serialization\obj\Debug\net5.0\Serialization.AssemblyInfo.cs
+C:\Users\erikk\Desktop\CSharpCollection\Serialization\obj\Debug\net5.0\Serialization.csproj.CoreCompileInputs.cache

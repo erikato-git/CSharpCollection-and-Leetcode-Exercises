@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\erikk\\Desktop\\CSharpCollection\\MemoryCachingAndILogger\\WebApplication1\\WebApplication1\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MemoryCachingAndILogger.bundle.scp.css",
-      "PackagePath": "staticwebassets\\MemoryCachingAndILogger.bundle.scp.css"
+      "Id": "C:\\Users\\erikk\\Desktop\\CSharpCollection\\MemoryCachingAndILogger\\WebApplication1\\WebApplication1\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MemoryCachingAndILoggerDB.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MemoryCachingAndILoggerDB.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\erikk\\Desktop\\CSharpCollection\\MemoryCachingAndILogger\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
@@ -245,20 +245,20 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MemoryCachingAndILogger.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MemoryCachingAndILoggerDB.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MemoryCachingAndILogger.props",
-      "PackagePath": "build\\MemoryCachingAndILogger.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MemoryCachingAndILoggerDB.props",
+      "PackagePath": "build\\MemoryCachingAndILoggerDB.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MemoryCachingAndILogger.props",
-      "PackagePath": "buildMultiTargeting\\MemoryCachingAndILogger.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MemoryCachingAndILoggerDB.props",
+      "PackagePath": "buildMultiTargeting\\MemoryCachingAndILoggerDB.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MemoryCachingAndILogger.props",
-      "PackagePath": "buildTransitive\\MemoryCachingAndILogger.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MemoryCachingAndILoggerDB.props",
+      "PackagePath": "buildTransitive\\MemoryCachingAndILoggerDB.props"
     }
   ],
   "ElementsToRemove": []

@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "NetworkUtility.Tests": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:60698;http://localhost:60699"
+    }
+  }
+}

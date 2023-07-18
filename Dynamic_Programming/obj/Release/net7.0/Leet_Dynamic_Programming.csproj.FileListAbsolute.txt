@@ -1,0 +1,15 @@
+C:\Users\erikk\Desktop\CSharpCollection\Dynamic_Programming\bin\Release\net7.0\Leet_Dynamic_Programming.exe
+C:\Users\erikk\Desktop\CSharpCollection\Dynamic_Programming\bin\Release\net7.0\Leet_Dynamic_Programming.deps.json
+C:\Users\erikk\Desktop\CSharpCollection\Dynamic_Programming\bin\Release\net7.0\Leet_Dynamic_Programming.runtimeconfig.json
+C:\Users\erikk\Desktop\CSharpCollection\Dynamic_Programming\bin\Release\net7.0\Leet_Dynamic_Programming.dll
+C:\Users\erikk\Desktop\CSharpCollection\Dynamic_Programming\bin\Release\net7.0\Leet_Dynamic_Programming.pdb
+C:\Users\erikk\Desktop\CSharpCollection\Dynamic_Programming\obj\Release\net7.0\Leet_Dynamic_Programming.csproj.AssemblyReference.cache
+C:\Users\erikk\Desktop\CSharpCollection\Dynamic_Programming\obj\Release\net7.0\Leet_Dynamic_Programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikk\Desktop\CSharpCollection\Dynamic_Programming\obj\Release\net7.0\Leet_Dynamic_Programming.AssemblyInfoInputs.cache
+C:\Users\erikk\Desktop\CSharpCollection\Dynamic_Programming\obj\Release\net7.0\Leet_Dynamic_Programming.AssemblyInfo.cs
+C:\Users\erikk\Desktop\CSharpCollection\Dynamic_Programming\obj\Release\net7.0\Leet_Dynamic_Programming.csproj.CoreCompileInputs.cache
+C:\Users\erikk\Desktop\CSharpCollection\Dynamic_Programming\obj\Release\net7.0\Leet_Dynamic_Programming.dll
+C:\Users\erikk\Desktop\CSharpCollection\Dynamic_Programming\obj\Release\net7.0\refint\Leet_Dynamic_Programming.dll
+C:\Users\erikk\Desktop\CSharpCollection\Dynamic_Programming\obj\Release\net7.0\Leet_Dynamic_Programming.pdb
+C:\Users\erikk\Desktop\CSharpCollection\Dynamic_Programming\obj\Release\net7.0\Leet_Dynamic_Programming.genruntimeconfig.cache
+C:\Users\erikk\Desktop\CSharpCollection\Dynamic_Programming\obj\Release\net7.0\ref\Leet_Dynamic_Programming.dll

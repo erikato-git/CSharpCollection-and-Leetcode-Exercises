@@ -11342,9 +11342,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erikk\\Desktop\\CSharpCollection\\MemoryCachingAndILogger\\WebApplication1\\WebApplication1\\MemoryCachingAndILogger.csproj",
-      "projectName": "MemoryCachingAndILogger",
-      "projectPath": "C:\\Users\\erikk\\Desktop\\CSharpCollection\\MemoryCachingAndILogger\\WebApplication1\\WebApplication1\\MemoryCachingAndILogger.csproj",
+      "projectUniqueName": "C:\\Users\\erikk\\Desktop\\CSharpCollection\\MemoryCachingAndILogger\\WebApplication1\\WebApplication1\\MemoryCachingAndILoggerDB.csproj",
+      "projectName": "MemoryCachingAndILoggerDB",
+      "projectPath": "C:\\Users\\erikk\\Desktop\\CSharpCollection\\MemoryCachingAndILogger\\WebApplication1\\WebApplication1\\MemoryCachingAndILoggerDB.csproj",
       "packagesPath": "C:\\Users\\erikk\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\erikk\\Desktop\\CSharpCollection\\MemoryCachingAndILogger\\WebApplication1\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
